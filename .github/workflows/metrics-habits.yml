@@ -7,19 +7,14 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate coding habits metrics
+      - name: Mildly interesting facts
         uses: lowlighter/metrics@latest
         with:
+          filename: metrics.plugin.habits.facts.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
           config_timezone: America/Lima
 
-          plugin_habits: yes
-          plugin_habits_from: 500
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: graph
-          plugin_habits_trim: yes
-          plugin_habits_languages_limit: 5
-          plugin_habits_languages_threshold: 2%
