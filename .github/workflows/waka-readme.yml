@@ -1,0 +1,26 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch: # permite ejecución manual
+  schedule:
+    - cron: "5 5 * * *"  # Esto es 00:05 UTC-5
+
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 8
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          STOP_AT_OTHER: true
+          TARGET_BRANCH: master
+          TARGET_PATH: README.md
+          COMMIT_MESSAGE: Actualización automática de métricas WakaTime
