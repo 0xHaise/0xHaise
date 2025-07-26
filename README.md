@@ -3,3 +3,5 @@
 ![0xInterruptHandler's Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xInterruptHandler&theme=default&hide_border=false)
 ![0xInterruptHandler's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xInterruptHandler&theme=default&show_icons=true&hide_border=false&layout=compact)
 <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Isometric commit calendar">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
