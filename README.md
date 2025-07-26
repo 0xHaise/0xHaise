@@ -1,6 +1,6 @@
  
 ---
-
+ 
 <!-- PRESENTACIÓN EN ESTILO CÓDIGO -->
 <div align="center">
   <table>
@@ -77,4 +77,27 @@ const developer = {
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-</p>
+   <img src="https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=fff&style=for-the-badge "/>
+    <img src="https://img.shields.io/badge/Parrot%20Security-15E0ED?logo=parrotsecurity&logoColor=000&style=for-the-badge "/>  
+     <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000?logo=jsonwebtokens&logoColor=fff&style=for-the-badge"/> 
+     <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=for-the-badge"/> 
+      <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=for-the-badge "/> 
+      <img src="https://img.shields.io/badge/UML-FABD14?logo=uml&logoColor=000&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/ZAP-00549E?logo=zap&logoColor=fff&style=for-the-badge "/>  
+  <img src="https://img.shields.io/badge/Wappalyzer-4608AD?logo=wappalyzer&logoColor=fff&style=for-the-badge "/>  
+  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge "/>   
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge"/>   
+ <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-00587A?logo=wireshark&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Metasploit-6B6BFF?logo=metasploit&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nmap-00D600?logo=gnometerminal&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenSSL-721412?logo=openssl&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Snort-DB1028?logo=snort&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Splunk-F3EA3B?logo=splunk&logoColor=black&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP-CC0C39?logo=owasp&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6600?logo=portainer&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vault-000000?logo=vault&logoColor=white&style=for-the-badge"/>
+
+</p>  
+ 
+
