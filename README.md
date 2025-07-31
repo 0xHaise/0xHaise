@@ -6,7 +6,7 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="https://i.pinimg.com/1200x/72/df/29/72df29c33c1965d0fe93650d8b0dcc98.jpg" alt="Profile" width="100%">
+        <img src="https://i.pinimg.com/736x/41/d7/2d/41d72d51a12acf0e87b51b4781c8b0cc.jpg" alt="Profile" width="100%">
       </td>
       <td width="50%">
         <pre>
