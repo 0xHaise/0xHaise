@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/1200x/07/04/b6/0704b61d02488968f2870f0ed99cd6ca.jpg" width="300px" height="300px" align="right">
+<img src="https://i.pinimg.com/1200x/f1/a7/a7/f1a7a76ab67c3846fc5c963882e74c57.jpg" width="300px" height="300px" align="right">
 
 - Student majoring in System Engineering
 - Web developer
