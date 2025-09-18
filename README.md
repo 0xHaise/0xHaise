@@ -1,2 +1,2 @@
-<img src="https://i.pinimg.com/1200x/f1/a7/a7/f1a7a76ab67c3846fc5c963882e74c57.jpg" width="300px" height="300px" align="right">
+<img src="https://static.wikitide.net/greatcharacterswiki/thumb/e/e8/Felix_The_Cat.png/300px-Felix_The_Cat.png" width="300px" height="300px" align="right">
  
