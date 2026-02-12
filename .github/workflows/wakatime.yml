@@ -1,4 +1,4 @@
-name: Wakatime Stats
+name: Profile Readme Development Stats
 
 on:
   workflow_dispatch:
@@ -9,17 +9,30 @@ permissions:
   contents: write
 
 jobs:
-  update-readme-with-wakatime-stats:
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Update Wakatime stats
-        uses: claserre9/wakatime-stats@v1
+      - name: Update README with WakaTime stats
+        uses: anmol098/waka-readme-stats@master
         with:
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          WAKATIME_USER_ID: ${{ secrets.WAKATIME_USER_ID }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          TABLE_STYLE: 'box'
+
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_EDITORS: "True"
+          SHOW_TIMEZONE: "True"
+          SHOW_COMMIT: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_LOC_CHART: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_PROFILE_VIEWS: "True"
+          SHOW_SHORT_INFO: "True"
+          SHOW_UPDATED_DATE: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
