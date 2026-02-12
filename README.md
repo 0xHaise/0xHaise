@@ -8,3 +8,6 @@
 [<img width="100%" height="1" alt="separator" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
 [<img align="left" width="390" alt="📌 Topics icons" src="./metrics.plugin.topics.icons.svg">](#)
+
+[//]: # (wakatime-stats)
+[//]: # (end-wakatime-stats)
