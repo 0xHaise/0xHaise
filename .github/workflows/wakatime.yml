@@ -3,15 +3,17 @@ name: Wakatime Stats
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'  # Run at midnight every day
+    - cron: '0 0 * * *'
+
+permissions:
+  contents: write
 
 jobs:
   update-readme-with-wakatime-stats:
-    name: Update README with Wakatime stats
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: Checkout
         uses: actions/checkout@v3
 
       - name: Update Wakatime stats
@@ -20,6 +22,3 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           WAKATIME_USER_ID: ${{ secrets.WAKATIME_USER_ID }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          TABLE_STYLE: default
-          MAX_LANGUAGES: 5
-          WAKATIME_TIME_RANGE: all_time
