@@ -10,4 +10,25 @@
 [<img align="left" width="390" alt="📌 Topics icons" src="./metrics.plugin.topics.icons.svg">](#)
 
 [//]: # (wakatime-stats)
+
+
+### Wakatime Stats
+```
++--------- All Time Stats for Programming Languages ---------+
+| Programming Languages     | Total Hours                    |
++---------------------------+--------------------------------+
+
+
++---------------- All Time Stats for Editors ----------------+
+| Editors                   | Total Hours                    |
++---------------------------+--------------------------------+
+
+
++----------- All Time Stats for Operating Systems -----------+
+| Operating Systems         | Total Hours                    |
++---------------------------+--------------------------------+
+```
+
 [//]: # (end-wakatime-stats)
+
+
