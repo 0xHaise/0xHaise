@@ -10,7 +10,7 @@
 [<img align="left" width="390" alt="📌 Topics icons" src="./metrics.plugin.topics.icons.svg">](#)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%205%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Thursday** 
 
