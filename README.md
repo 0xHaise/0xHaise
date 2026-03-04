@@ -9,6 +9,9 @@
 
 [<img align="left" width="390" alt="📌 Topics icons" src="./metrics.plugin.topics.icons.svg">](#)
 
+<details>
+<summary>coding stats</summary>
+  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2059%20mins-blue?style=flat)
 
@@ -50,7 +53,7 @@ Blade                    1 repo              ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
+</details>
 
 
 
