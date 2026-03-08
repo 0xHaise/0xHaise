@@ -13,7 +13,7 @@
 <summary>coding stats</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2038%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Thursday** 
 
